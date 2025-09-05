@@ -22,11 +22,11 @@ Skilled penetration tester with over 3 years of experience in cybersecurity, spe
 
 ## Certifications
 
-- **Certified Ethical Hacker (CEH)** - EC-Council (Expires: August 2028)
-- **Certified Red Team Analyst (CRTA)** - CyberWarFare Labs (No expiry)
-- **ISO/IEC 27001 Information Security Internal Auditor™** - SkillFront (No expiry)
-- **ISO/IEC 27001 Information Security Associate™** - SkillFront (No expiry)
-- **Trend Vision One™ Security Operations Advanced** - TrendMicro (Expires: June 2027)
+- **Certified Ethical Hacker (CEH)** - <a href="https://awaisakbar.com/static/certifications/CEH.pdf" target="_blank" rel="noopener noreferrer">EC-Council</a> (Expires: August 2028)
+- **Certified Red Team Analyst (CRTA)** - <a href="https://awaisakbar.com/static/certifications/CRTA.pdf" target="_blank" rel="noopener noreferrer">CyberWarFare Labs</a> (No expiry)
+- **ISO/IEC 27001 Information Security Internal Auditor™** - <a href="https://awaisakbar.com/static/certifications/InfoSec-Auditor.pdf" target="_blank" rel="noopener noreferrer">SkillFront</a> (No expiry)
+- **ISO/IEC 27001 Information Security Associate™** - <a href="https://awaisakbar.com/static/certifications/InfoSec-Associate.pdf" target="_blank" rel="noopener noreferrer">SkillFront</a> (No expiry)
+- **Trend Vision One™ Security Operations Advanced** - <a href="https://awaisakbar.com/static/certifications/SecOps-Advanced.pdf" target="_blank" rel="noopener noreferrer">TrendMicro</a> (Expires: June 2027)
 
 ## Get in Touch
 
