@@ -1,37 +1,33 @@
-<h2 align="center"> 👋 Hi, I'm <b>Hamza Khattak </b> </h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/cybersecurity-%2314354C.svg?&style=for-the-badge&logo=cybersecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge"/>
-   <img src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&style=for-the-badge&logoColor=white"/>
-</p>
+# 👋 I'm Awais Akbar
 
-<p align="center">
-A journey through code, vulnerabilities, and security, driven by curiosity and the excitement of CTFs.
-</p>
+Skilled penetration tester with over 3 years of experience in cybersecurity, specializing in vulnerability assessment and testing of network, web, mobile, and smart TV applications.
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="logos/ecpptv2.png" alt="eCPPTv2" width="120" style="margin: 10px;">
-  <img src="logos/CEH.png" alt="CEH" height="100" style="margin: 10px;">
-  <img src="logos/nse.png" alt="CEH" height="100" style="margin: 10px;">
-   <img src="logos/aws.png" alt="CEH" height="100" style="margin: 10px;">
-</div>
+## Work Experience
 
-<ul>
-  <li><b>🌍 Website: </b> <a href="https://mhamzakhattak.vercel.app/">https://mhamzakhattak.vercel.app/</a></li>
-   <li><b>📩 Email:</b> <a href="mailto:mhamzakhattak@protonmail.com">mhamzakhattak@proton.me</a></li>
-  <li><b>🚀 Discord: </b> <a href="#" target="_blank">kh4tt4k</a></li>
-  <li><b>👨🏻‍💻 HackTheBox: </b> <a href="https://app.hackthebox.com/profile/915532">mhamzakhattak</a></li>
-  <li><b>💬 Twitter: </b> <a href="https://twitter.com/mhamxakhattak" target="_blank">mhamxakhattak</a></li>
-  <li><b>📈 Linkedin: </b> <a href="https://www.linkedin.com/in/mhamzakhattak" target="_blank">mhamzakhattak</a></li>
-</ul>
+- **Co-Founder** - <a href="https://pentestxperts.com/" target="_blank" rel="noopener noreferrer">Pentest Xperts</a> (July 2025 - Present)
+- **Senior Offensive Security Engineer** - <a href="https://nayatel.com/" target="_blank" rel="noopener noreferrer">Nayatel</a> (July 2022 - Present)
 
-<h2 align="center">My Github Stats</h2> 
+## Skills
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adementorfromazkaban&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="My stats">
-  <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=adementorfromazkaban&hide=css,java,html&theme=tokyonight">
+- **Penetration Testing:** Burp Suite, Metasploit, OWASP ZAP, Nmap, Acunetix, MobSF
+- **Vulnerability Management:** Nexpose, Nessus, Manual Testing
+- **Static Analysis & Code Security:** Semgrep, Snyk, GitLeaks
+- **Detection & SIEM:** Wazuh, Elastic SIEM, Graylog
+- **Endpoint Security:** Trend Micro Vision One XDR, Kaspersky EDR
+- **Reporting:** SysReptor, Manual Report Writing
 
-</p>
+## Education
+
+- **BE Mechatronics Engineering** - <a href="https://www.au.edu.pk/" target="_blank" rel="noopener noreferrer">Air University, Islamabad</a> (2018 - 2022)
+
+## Certifications
+
+- **Certified Ethical Hacker (CEH)** - EC-Council (Expires: August 2028)
+- **Certified Red Team Analyst (CRTA)** - CyberWarFare Labs (No expiry)
+- **ISO/IEC 27001 Information Security Internal Auditor™** - SkillFront (No expiry)
+- **ISO/IEC 27001 Information Security Associate™** - SkillFront (No expiry)
+- **Trend Vision One™ Security Operations Advanced** - TrendMicro (Expires: June 2027)
+
+## Get in Touch
+
+If you’d like to know more about me or request my resume, feel free to reach out at [adementorfromazkaban@gmail.com](mailto:adementorfromazkaban@gmail.com).
